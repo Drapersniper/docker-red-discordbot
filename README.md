@@ -97,7 +97,7 @@ And again, subsequent runs you can omit the `OWNER`, `TOKEN`, and `PREFIX`es fro
 
 ### Unraid
 
-This container can also be found in the Unraid Community Apps store. Search for and use "red-discordbot" made by [Selfhosters Unraid Discord Repository](https://unraid.net/community/apps?q=Selfhosters+Unraid+Discord+Repository&r=0#r). This is the one that I know works and that I support.
+This container can also be found in the Unraid Community Apps store. Search for and use "[red-discordbot](https://ca.unraid.net/apps/red-discordbot-0pwdozt05ptsfh)" from [my repository](https://ca.unraid.net/apps?q=maintainer:%22PhasecoreX%27s+Repository%22&type=all). This is the only one that I will support.
 
 ### Updates
 
